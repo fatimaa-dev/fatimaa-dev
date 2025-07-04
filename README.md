@@ -1,5 +1,8 @@
-# 💫 About Me:
-<br><br>Hi! I'm Faiza Fatima, a 2nd-year student at Army Institute of Technology, Pune.  <br>I'm passionate about learning new technologies and building projects that solve real-world problems.<br><br>🌱 Currently exploring web development and Competitive Programming.  <br>📚 Always excited to learn and grow!  <br>🤝 Open to collaboration and new opportunity.<br>
+# Hello! I'm Faiza Fatima.<img src="https://github.com/user-attachments/assets/cbc8c728-bc73-4cf4-96bc-a38f46f321a3" width="100"/> 
+  
+  # 📝 <sub> About Me:
+  
+ <br>I'm a 2nd-year student at Army Institute of Technology, Pune.  <br>I'm passionate about learning new technologies and building projects that solve real-world problems.<br><br>🌱 Currently exploring web development and Competitive Programming.  <br>📚 Always excited to learn and grow!  <br>🤝 Open to collaboration and new opportunity.<br> 
 
 
 ## 🌐 Socials:
