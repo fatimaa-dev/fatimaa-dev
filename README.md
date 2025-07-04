@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><br>Hi! I'm Faiza Fatima, a 2nd-year student at Army Institute of Technology, Pune.  <br>I'm passionate about learning new technologies and building projects that solve real-world problems.<br><br>🌱 Currently exploring web development and Python.  <br>📚 Always excited to learn and grow!  <br>🤝 Open to collaboration and new opportunity<br>
+<br><br>Hi! I'm Faiza Fatima, a 2nd-year student at Army Institute of Technology, Pune.  <br>I'm passionate about learning new technologies and building projects that solve real-world problems.<br><br>🌱 Currently exploring web development and Competitive Programming.  <br>📚 Always excited to learn and grow!  <br>🤝 Open to collaboration and new opportunity.<br>
 
 
 ## 🌐 Socials:
